@@ -1,0 +1,7 @@
+beautifulsoup4
+google
+progressbar
+random_user_agent
+requests
+telethon
+html5lib
